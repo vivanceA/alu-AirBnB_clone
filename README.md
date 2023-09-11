@@ -1,4 +1,4 @@
-# AirBnB Clone Console Readme
+# AirBnB Clone
 
 ## Project Objective
 The main goal of this project is to deploy a simplified version of the AirBnB website on a server. Although it won't encompass all the features of the original platform, it will cover enough fundamental concepts to serve as a foundation for more advanced programming.
